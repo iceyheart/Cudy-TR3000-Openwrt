@@ -1,7 +1,7 @@
 # N1 OpenWrt 轻量固件--旁路专用 每周五早8点自动更新
 
 **集成**
-- 晶晨宝盒：安装 OpenWrt 至 EMMC、在线下载更新——>完整更新全系统；
+- 晶晨宝盒：安装 OpenWrt 至 EMMC、在线下载更新——>完整更新全系统
 - 插件SSR+、passwall、passwall2、nps、zerotier、kms、timectrol
   - 新增openclash(4月3日）
 - 更新第三方软件源，方便自行安装包括istore等在内的IPK文件
